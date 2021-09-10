@@ -3,15 +3,15 @@
 
 <div>
   <a href="https://github.com/peustratt">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=peustratt&show_icons=true&theme=dracula">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peustratt&show_icons=true&theme=dracula">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=peustratt&show_icons=true">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peustratt&show_icons=true">
 </div>
   
 <div>
   <img align="center" alt="Peu-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Peu-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Peu-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img align="center" alt="Peu-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="center" alt="Peu-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Peu-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Peu-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
   
 ##
