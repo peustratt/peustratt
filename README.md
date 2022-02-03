@@ -1,6 +1,6 @@
 ## Olá, me chamo Pedro Ivo ! 👋
 ### Bem vindo ao meu perfil Github
-- 🏫 Atualmente sou estudante de ADS
+- 🏫 Estudante de ADS
 - 👷 Tenho desenvolvido modestas landing pages e alguns joguinhos utilizando JS/React
 - 📍 Moro em Recife
 ###  🛠️ Estou aprendendo:
