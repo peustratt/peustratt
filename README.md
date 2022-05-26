@@ -3,7 +3,10 @@
 - 🏫 Estudante de ADS
 - 👷 Tenho desenvolvido modestas landing pages e alguns joguinhos utilizando JS/React
 ###  🛠️ Estou aprendendo:
-  <img align="center" alt="Peu-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" alt="Peu-ReactJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="Peu-ReactJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+  <img align="center" alt="Peu-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" alt="Peu-ReactJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img style="background: white; border-radius: 50%" align="center" alt="Peu-ReactJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <i class="devicon-socketio-original"></i>
 
   
 
@@ -30,5 +33,3 @@
   <a href="https://www.linkedin.com/in/pedro-ivo-coutinho">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </div>
-
-
