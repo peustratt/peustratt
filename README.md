@@ -9,8 +9,8 @@
 #
 <div>
   <a href="https://github.com/peustratt">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=peustratt&show_icons=true">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peustratt&show_icons=true">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=peustratt&show_icons=true&theme=synthwave">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peustratt&show_icons=true&theme=synthwave">
 </div>
 
 ### 📜 Conhecimentos: 
